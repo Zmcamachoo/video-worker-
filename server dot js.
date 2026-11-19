@@ -1,0 +1,1 @@
+const express require express, const app equals express, app dot use express dot json, app dot post slash process, async req res, just return a placeholder JSON response like ok equals true, and finally, app dot listen on port 3000, logging a simple startup message.
